@@ -46,7 +46,7 @@ To run Paradox locally, follow these steps:
     ```
 
 3. **⬇️ Download the Model**:
-   Place your trained model file (`Trained_model.pkl`) in the project directory.
+   Place your trained model file (`Trained_model.pkl`), tfidf Transformer (`tfidf_transformer.pkl`), label encoder (`label_encoder.pkl`) in the project directory.
 
 4. **🚀 Run the Application**:
     ```bash
