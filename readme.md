@@ -1,6 +1,18 @@
 # Paradox 🔮  
 A machine learning-powered web app to classify YouTube comments into three categories: **Feedback**, **Doubt**, and **Irrelevant**. Paradox is designed to help content creators and educators organize and analyze comments efficiently.  
 
+## 📑 Table of Contents  
+1. [Paradox Overview](#paradox-)
+2. [Features](#-features)
+3. [How It Works](#-how-it-works)
+4. [Dataset](#-dataset)
+5. [Installation](#-installation)
+6. [Link to Paradox](#-link-to-paradox)
+7. [Model Details](#-model-details)
+8. [Future Scope](#-future-scope)
+9. [Project Motivation](#-project-motivation)
+10. [Author](#-author)
+
 ## 🌟 Features  
 - **Single Comment Prediction**: Classify individual YouTube comments in real-time.  
 - **Batch Prediction**: Upload a file to classify multiple comments at once.  
