@@ -6,7 +6,7 @@ A machine learning-powered web app to classify YouTube comments into three categ
 2. [Features](#-features)
 3. [How It Works](#-how-it-works)
 4. [Dataset](#-dataset)
-5. [Installation](## ⚙️ Installation)
+5. [Installation](##-Installation)
 6. [Link to Paradox](#-link-to-paradox)
 7. [Model Details](#-model-details)
 8. [Future Scope](#-future-scope)
